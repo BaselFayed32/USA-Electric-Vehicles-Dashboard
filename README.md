@@ -4,70 +4,70 @@ A comprehensive Power BI dashboard analyzing the United States electric vehicle 
 
 # 🎯 Project Objectives
 
-• Analyze EV market trends and sales patterns.
+  • Analyze EV market trends and sales patterns.
 
-• Track environmental impact of EV adoption.
+  • Track environmental impact of EV adoption.
 
-• Visualize market performance of popular EV models.
+  • Visualize market performance of popular EV models.
 
-• Support data-driven decision making in the EV industry.
+  • Support data-driven decision making in the EV industry.
 
 # 📊 Key Components
 
 1. Sales and Demand Analysis
 
-• Market performance of popular models (Model Y, Model 3)
+  • Market performance of popular models (Model Y, Model 3)
 
-• Regional demand distribution
+  • Regional demand distribution
+  
+  • Demographic segmentation
 
-• Demographic segmentation
-
-• Sales trends
+  • Sales trends
 
 2. Economic Performance Metrics
 
-• Traditional automotive vs EV industry comparison
+  • Traditional automotive vs EV industry comparison
 
-• Production volumes
+  • Production volumes
 
-• Market share analysis
-
-• Growth patterns
-
+  • Market share analysis
+  
+  • Growth patterns
+  
 3. Environmental Impact Dashboard
 
-• Carbon emission reduction metrics
+  • Carbon emission reduction metrics
 
-• Comparison with traditional vehicles
+  • Comparison with traditional vehicles
 
-• Sustainability goals tracking
+  • Sustainability goals tracking
 
 4. Future Insights
 
-• Market growth projections
+  • Market growth projections
 
-• Industry challenges
+  • Industry challenges
 
-• Opportunity analysis
+  • Opportunity analysis
 
-• Technology trends
+  • Technology trends
 
 # 🛠️ Technical Stack
 
-• Dashboard: Power BI
+  • Dashboard: Power BI
 
-• Data Processing: Excel
+  • Data Processing: Excel
 
 
 # 💡 Features
 
-• Interactive filtering
+  • Interactive filtering
 
-• Dynamic visualizations
+  • Dynamic visualizations
 
-• Environmental impact calculations
+  • Environmental impact calculations
 
-• Trend analysis tools
+  • Trend analysis tools
 
 # 📬 Contact For inquiries, feedback, or collaboration opportunities, feel free to reach out:
 
