@@ -4,10 +4,13 @@ A comprehensive Power BI dashboard analyzing the United States electric vehicle 
 
 # 🎯 Project Objectives
 
-• Analyze EV market trends and sales patterns
-• Track environmental impact of EV adoption
-• Visualize market performance of popular EV models
-• Support data-driven decision making in the EV industry
+• Analyze EV market trends and sales patterns.
+
+• Track environmental impact of EV adoption.
+
+• Visualize market performance of popular EV models.
+
+• Support data-driven decision making in the EV industry.
 
 # 📊 Key Components
 
